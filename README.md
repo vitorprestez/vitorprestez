@@ -1,6 +1,6 @@
 <h1>Vitor Prestes </h1>
 <p align='center'>
-  <img width="7%"  src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif" />
+  <img width="7%"  src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 </p>
 <h2>I know</h2>
 <div display='flex'>
