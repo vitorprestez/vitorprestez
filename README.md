@@ -1,5 +1,7 @@
 <h1>Vitor Prestes </h1>
-
+<p align='center'>
+  <img width="7%"  src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif" />
+</p>
 <h2>I know</h2>
 <div display='flex'>
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' /> 
