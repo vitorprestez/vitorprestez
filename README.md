@@ -1,5 +1,7 @@
 <h1>Vitor Prestes </h1>
 
+<img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'/> 
+
 <!--
 **vitorprestez/vitorprestez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
