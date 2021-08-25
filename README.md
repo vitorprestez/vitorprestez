@@ -1,4 +1,4 @@
-<h1 align='center'>Hi there 👋, I'm Vitor </h1>
+<h1>Vitor Prestes </h1>
 
 <!--
 **vitorprestez/vitorprestez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
