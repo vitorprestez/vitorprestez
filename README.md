@@ -4,7 +4,7 @@
 </p>
  <div>
   <img heigth="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorprestez&layout=compact&theme=dark"/>
-  <img heigth="160em" src="https://github-readme-stats.vercel.app/api?username=vitorprestez&show_icons=true&theme=dark"/>
+  <img heigth="160em" src="https://github-readme-stats.vercel.app/api?username=vitorprestez&show_icons=true&theme=dark&layout=compact"/>
  </div>
 <h2>I know</h2>
 <div display='flex'>
