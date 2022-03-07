@@ -2,6 +2,10 @@
 <p align='center'>
   <img width="7%"  src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif" />
 </p>
+ <div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorprestez&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vitorprestez&show_icons=true&theme=radical"/>
+ </div>
 <h2>I know</h2>
 <div display='flex'>
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' /> 
@@ -19,9 +23,6 @@
    <a href='https://www.instagram.com/vitorprestez/'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/></a>
    <a href='https://www.facebook.com/vitorprestez'><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'/></a>
    <a href='https://www.linkedin.com/in/vitorprestez/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
- </div>
- <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorprestez&layout=compact&theme=dark"/>
  </div>
 
 
