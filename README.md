@@ -3,8 +3,8 @@
   <img width="7%"  src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif" />
 </p>
  <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorprestez&layout=compact&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vitorprestez&show_icons=true&theme=radical"/>
+  <img heigth="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorprestez&layout=compact&theme=dark"/>
+  <img heigth="160em" src="https://github-readme-stats.vercel.app/api?username=vitorprestez&show_icons=true&theme=dark"/>
  </div>
 <h2>I know</h2>
 <div display='flex'>
