@@ -24,7 +24,7 @@
    <a href='https://www.facebook.com/vitorprestez'><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'/></a>
    <a href='https://www.linkedin.com/in/vitorprestez/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
  </div>
-<img src="https://fellnner.com.br/wp-content/uploads/2021/11/img_02-768x703.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://64.media.tumblr.com/86fd653c0ab8d14231dafe99c79a3116/569bcdf8ed0f2396-3c/s500x750/d90f913448bed233915e74372947533140df48fd.gifv" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
