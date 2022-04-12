@@ -1,4 +1,5 @@
 <h1>Vitor Prestes </h1>
+<div>
 <h2>Contact me</h2>
  <div>
    <a href='https://www.instagram.com/vitorprestez/'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/></a>
@@ -26,6 +27,7 @@
 <p align='center'>
   <img width="7%"  src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif" />
 </p>
+</div>
 <div>
  <div align="center" display="flex">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitorprestez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
