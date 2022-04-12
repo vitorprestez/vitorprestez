@@ -5,30 +5,6 @@
    <a href='https://www.instagram.com/vitorprestez/'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/></a>
    <a href='https://www.facebook.com/vitorprestez'><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'/></a>
    <a href='https://www.linkedin.com/in/vitorprestez/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
- </div>
-<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-<p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
-</p>
-
-<p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
-<p align='center'>
-  <img width="7%"  src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif" />
-</p>
-</div>
-<div>
  <div align="center" display="flex">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitorprestez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorprestez&layout=compact&langs_count=7&theme=dark"/>
