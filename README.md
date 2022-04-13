@@ -1,4 +1,3 @@
-
 <div>
  <h2>About me</h2>
  <h4>🎓 Studying computer science at <a href="http://www1.urisantiago.br/">URI Campus Santiago</a></h4>
