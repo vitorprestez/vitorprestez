@@ -47,7 +47,7 @@
  <a href='https://nodejs.org/en/'><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
  <a href='https://graphql.org/'><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" /></a>
  <a href='https://jestjs.io/'><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a>
- <a href='https://git-scm.com/'><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /></a>
+ <a href='https://git-scm.com/'><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
  <a href='https://www.adobe.com/br/products/photoshop.html'><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /></a>
  <a href='https://www.adobe.com/br/products/illustrator.html'><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" /></a>
  <a href='https://www.figma.com/'><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
