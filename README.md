@@ -41,6 +41,7 @@
  <a href='https://www.w3schools.com/css/'><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /></a>
  <a href='https://getbootstrap.com/'><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /></a>
  <a href='https://mui.com/pt/'><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /></a>
+ <a href='https://styled-components.com/'><img width=40px src="https://camo.githubusercontent.com/ad7e3fc26ea2574642006cd00b537e82e2500a3b1b8edae1431be9bf9dec87d0/68747470733a2f2f7777772e7374796c65642d636f6d706f6e656e74732e636f6d2f61746f6d2e706e67"/></a>
  <a href='https://sass-lang.com/'><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a>
  <a href='https://nodejs.org/en/'><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
  <a href='https://graphql.org/'><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" /></a>
