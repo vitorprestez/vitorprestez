@@ -24,7 +24,7 @@
  <img width=35% src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="350px" min-width="350px" max-width="350px" align="right" alt="gif"> 
  :rocket: &nbsp; Exploring new technologies and studying to be a Full Stack Developer.<br></br>
  :mortar_board:	 &nbsp; Studying Computer Science at <a href='http://www1.urisantiago.br/'>URI Campus Santiago</a><br></br>
- :books: &nbsp; Currently Learning Backend and Mobile Development.<br></br>
+ :books: &nbsp; Currently Learning React.js, React Native and Node.js.<br></br>
  :speech_balloon: &nbsp; Ask me about <b>anything!</b> (if I don't know, let's learn together)
 </p>
 <br></br>
