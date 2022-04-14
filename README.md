@@ -1,11 +1,14 @@
 # Hi there, i'm Vitor Rodrigues Prestes! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 <br></br>
+
+[comment]: <> (CONTACT ME AREA.)
 <p align="center" width=100%>
  <a href="https://www.linkedin.com/in/prestesvitor"/>
   <img src="https://img.shields.io/badge/-Vitor%20Prestes-dd0606?style=for-the-badge&logo=Linkedin&logoColor=white&color=blue&link=https://linkedin.com/in/prestesvitor/"/>
  </a>
+ <a href="https://www.instagram.com/vitorprestez/">
   <img src="https://img.shields.io/badge/-@vitorprestez_-dd0606?&style=for-the-badge&logo=instagram&logoColor=white&color=blueviolet&link=https://instagram.com/vitorprestez"/>
+ </a>
  <a href="mailto:vitorprestes2008@gmail.com">
   <img src="https://img.shields.io/badge/-vitorprestes2008@gmail.com-dd0606?style=for-the-badge&logo=Gmail&logoColor=white"/>
  </a>
@@ -15,16 +18,18 @@
 </p>
 <br></br>
 
+[//]: <> (ABOUT ME AREA)
 <p>
  <h2>:man_technologist: About Me </h2>
- <img width=30% src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="350px" min-width="350px" max-width="350px" align="right" alt="gif"> 
-  :rocket: &nbsp; Exploring new technologies and studying to be a Full Stack Developer.<br></br>
-  :mortar_board:	 &nbsp; Studying Computer Science at <a href='http://www1.urisantiago.br/'>URI Campus Santiago</a><br></br>
-  :books: &nbsp; Currently Learning Backend and Mobile Development.<br></br>
-  :speech_balloon: &nbsp; Ask me about <b>anything!</b> (if I don't know, let's learn together)<br></br>
- </p>
- 
+ <img width=35% src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="350px" min-width="350px" max-width="350px" align="right" alt="gif"> 
+ :rocket: &nbsp; Exploring new technologies and studying to be a Full Stack Developer.<br></br>
+ :mortar_board:	 &nbsp; Studying Computer Science at <a href='http://www1.urisantiago.br/'>URI Campus Santiago</a><br></br>
+ :books: &nbsp; Currently Learning Backend and Mobile Development.<br></br>
+ :speech_balloon: &nbsp; Ask me about <b>anything!</b> (if I don't know, let's learn together)
+</p>
 <br></br>
+ 
+[//]: <> (TECHNOLOGIES AREA)
 ## :hammer_and_wrench: Technologies
 <div>
  <a href='https://www.javascript.com/'><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
@@ -44,11 +49,12 @@
  <a href='https://www.adobe.com/br/products/photoshop.html'><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /></a>
  <a href='https://www.adobe.com/br/products/illustrator.html'><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" /></a>
  <a href='https://www.figma.com/'><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
- </div>
+</div>
+<br></br>
  
- <br></br>
-  ## :fire: My Github Stats
- <p align='center'>
-  <a href='https://github.com/vitorprestez'><img width=49.5% src='https://github-readme-stats.vercel.app/api?username=vitorprestez&theme=aura&show_icons=true&hide_border=true'/></a>
-  <a href='https://github.com/vitorprestez'><img width=49% src='https://github-readme-stats.vercel.app/api/top-langs/?username=vitorprestez&layout=compact&theme=aura&hide_border=true'/></a>
+[//]: <> (MY GITHUB STATS AREA)
+## :fire: My Github Stats
+<p align='center'>
+ <a href='https://github.com/vitorprestez'><img width=49.5% src='https://github-readme-stats.vercel.app/api?username=vitorprestez&theme=aura&show_icons=true&hide_border=true'/></a>
+ <a href='https://github.com/vitorprestez'><img width=49% src='https://github-readme-stats.vercel.app/api/top-langs/?username=vitorprestez&layout=compact&theme=aura&hide_border=true'/></a>
 </p>
