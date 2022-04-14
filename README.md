@@ -26,7 +26,6 @@
  
 <br></br>
 ## :hammer_and_wrench: Technologies
-<br></br>
 <div>
  <a href='https://www.javascript.com/'><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
  <a href='https://www.typescriptlang.org/'><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/></a>
@@ -49,7 +48,6 @@
  
  <br></br>
   ## :fire: My Github Stats
- <br></br>
  <p align='center'>
   <a href='https://github.com/vitorprestez'><img width=49.5% src='https://github-readme-stats.vercel.app/api?username=vitorprestez&theme=aura&show_icons=true&hide_border=true'/></a>
   <a href='https://github.com/vitorprestez'><img width=49% src='https://github-readme-stats.vercel.app/api/top-langs/?username=vitorprestez&layout=compact&theme=aura&hide_border=true'/></a>
