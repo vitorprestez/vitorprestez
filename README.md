@@ -25,7 +25,6 @@
  :rocket: &nbsp; Exploring new technologies and studying to be a Full Stack Developer.<br></br>
  :mortar_board:	 &nbsp; Studying Computer Science at <a href='http://www1.urisantiago.br/'>URI Campus Santiago</a><br></br>
  :books: &nbsp; Currently Learning React.js, React Native and Node.js.<br></br>
- :speech_balloon: &nbsp; Ask me about <b>anything!</b> (if I don't know, let's learn together)
 </p>
 <br></br>
  
