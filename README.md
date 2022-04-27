@@ -56,6 +56,6 @@
 [//]: <> (MY GITHUB STATS AREA)
 ## :fire: My Github Stats
 <p align='center'>
- <a href='https://github.com/vitorprestez'><img  height=200px src='https://github-readme-stats.vercel.app/api?username=vitorprestez&theme=aura&show_icons=true&hide_border=true'/></a>
- <a href='https://github.com/vitorprestez'><img  height=200px src='https://github-readme-stats.vercel.app/api/top-langs/?username=vitorprestez&layout=compact&theme=aura&hide_border=true'/></a>
+ <a href='https://github.com/vitorprestez'><img height="180em" src='https://github-readme-stats.vercel.app/api?username=vitorprestez&theme=aura&show_icons=true&hide_border=true'/></a>
+ <a href='https://github.com/vitorprestez'><img height="180em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=vitorprestez&layout=compact&theme=aura&hide_border=true'/></a>
 </p>
