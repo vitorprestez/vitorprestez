@@ -1,4 +1,4 @@
-# Hi there, I'm Vitor Rodrigues Prestes! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm Vitor Rodrigues Prestes! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" heigth="30px>
 <br></br>
 
 [comment]: <> (CONTACT ME AREA.)
