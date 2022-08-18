@@ -50,6 +50,7 @@
  <a href='https://www.adobe.com/br/products/photoshop.html'><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /></a>
  <a href='https://www.adobe.com/br/products/illustrator.html'><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" /></a>
  <a href='https://www.figma.com/'><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
+ <a href='https://www.mongodb.com/pt-br'><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /></a>
 </div>
 <br></br>
  
