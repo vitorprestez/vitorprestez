@@ -2,19 +2,19 @@
 
 [comment]: <> (ÁREA DE CONTATO)
 <p align="center">
-  <a href="https://www.linkedin.com/in/prestesvitor" target="_blank">
+  <a href="https://www.linkedin.com/in/prestesvitor">
     <img src="https://img.shields.io/badge/LinkedIn-Vitor%20Prestes-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/vitorprestez/" target="_blank">
+  <a href="https://www.instagram.com/vitorprestez/">
     <img src="https://img.shields.io/badge/Instagram-@vitorprestez_-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
-  <a href="mailto:vitorprestesdev@gmail.com" target="_blank">
+  <a href="mailto:vitorprestesdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-vitorprestesdev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://www.facebook.com/vitorprestez/" target="_blank">
+  <a href="https://www.facebook.com/vitorprestez/">
     <img src="https://img.shields.io/badge/Facebook-Vitor%20Prestes-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
