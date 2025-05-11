@@ -1,4 +1,4 @@
-# Olá! Eu sou o Vitor Rodrigues Prestes 👋
+# Olá! Eu sou o Vitor 👋
 
 [comment]: <> (ÁREA DE CONTATO)
 <p align="center">
